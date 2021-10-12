@@ -18,3 +18,4 @@ pidfile /var/run/redis.pid  #如果以后台方式运行，我们就需要指定
 loglevel notice
 
 ```
+afefsef
